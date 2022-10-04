@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+input{
+    width: 400px;
+    
+    margin-bottom: 10px;
+}
+
+button{
+    width: 50px;
+}
+
+.plusBtn{
+    background-color: #4285f4;
+    border:#4285f4;
+    height: 21px;
+}
+
+.inputContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
